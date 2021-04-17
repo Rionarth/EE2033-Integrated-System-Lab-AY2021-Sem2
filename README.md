@@ -37,3 +37,7 @@ compact grc block design.
 
 g. As “OOK Text Sink” can only decode one message at a time, do incorporate a simple
 GUI button so we can select which received message string to decode during run time.
+
+
+# Special Thanks
+Lao Zhao & Lin Ran for helping us.
