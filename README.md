@@ -1,6 +1,6 @@
 # EE2033-Integrated-System-Lab-AY2021-Sem2
 
-1) Task 1 (80%):
+**1) Task 1 (80%):**
 
 a. You are required to employ Pluto Adalm, RTL-SDR, Analog Discovery 2, LTSPICE,
 GNURadio with the given specifications (Design A, B or C) for your group, and design a filter to suppress the interference at Intermediate Frequency (IF, signal from the RTL-SDR).
@@ -17,7 +17,7 @@ f. You are allowed to change the RX settings on the given laptop based on your e
 
 g. The test message will only be revealed on the evaluation day, and every design will be given different test message.
 
-2) Task 2 (20%):
+**2) Task 2 (20%):**
 
 a. Ignoring the interference specifications (By setting interference amplitude to zero),
 modify the given grc file to support transmission and reception of two different messages simultaneously (both with OOK modulation) using just only Pluto Adalm and GNURadio for this task.
